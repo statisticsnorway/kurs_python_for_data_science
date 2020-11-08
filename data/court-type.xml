@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<court-type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            original.entries.date="2016-08-03"
+            current.entries.date="2016-08-10"
+            table.structure.version="01-01.60-20160725"
+            table.id="court-type"
+            ref.administration="cat.admin.xml"
+            xsi:noNamespaceSchemaLocation="http://publications.europa.eu/mdr/resource/authority-schema/cat-01-01.60-20160725.xsd"
+            version="20160831-0">
+   <record deprecated="false"
+           id="CORT001"
+           IMMC.proposal.date="2016-08-31"
+           IMMC.approval.date="2016-08-31"
+           date.creation="2016-07-18"
+           adm.status="current">
+      <authority-code>EUR_CJ</authority-code>
+      <label>
+         <lg.version lg="bul" script="Cyrillic">Съд</lg.version>
+         <lg.version lg="ces">Soudní dvůr</lg.version>
+         <lg.version lg="dan">Domstolen</lg.version>
+         <lg.version lg="deu">Gerichtshof</lg.version>
+         <lg.version lg="ell" script="Greek">Δικαστήριο</lg.version>
+         <lg.version lg="eng">Court of Justice</lg.version>
+         <lg.version lg="est">Euroopa Kohus</lg.version>
+         <lg.version lg="fin">Unionin tuomioistuin</lg.version>
+         <lg.version lg="fra">Cour de justice</lg.version>
+         <lg.version lg="gle">An Chúirt Bhreithiúnais</lg.version>
+         <lg.version lg="hrv">Sud</lg.version>
+         <lg.version lg="hun">Bíróság</lg.version>
+         <lg.version lg="ita">Corte di giustizia</lg.version>
+         <lg.version lg="lav">Tiesa</lg.version>
+         <lg.version lg="lit">Teisingumo Teismas</lg.version>
+         <lg.version lg="mlt">Il-Qorti tal-Ġustizzja</lg.version>
+         <lg.version lg="nld">Hof van Justitie</lg.version>
+         <lg.version lg="pol">Trybunał Sprawiedliwości</lg.version>
+         <lg.version lg="por">Tribunal de Justiça</lg.version>
+         <lg.version lg="ron">Curtea de Justiţie</lg.version>
+         <lg.version lg="slk">Súdny dvor</lg.version>
+         <lg.version lg="slv">Sodišče</lg.version>
+         <lg.version lg="spa">Tribunal de Justicia</lg.version>
+         <lg.version lg="swe">Domstolen</lg.version>
+      </label>
+      <sources>
+         <source date="2016-08-09" lg="eng">
+            <description>The Court is responsible for dealing with: references for preliminary rulings from national courts on interpretation of EU law; actions brought by an EU country or the Commission against an EU country for infringing EU law; some actions brought by an EU country for annulment of a measure adopted by an EU institution; actions against an EU institution for failure to act; appeals on points of law against judgments of the General Court, and, since September 1st 2016, appeals against decisions of the General Court in civil service cases (OJ L 200, 26.7.2016, p. 137-139).</description>
+            <provenance>OP</provenance>
+         </source>
+      </sources>
+      <start.use>1952-07-24</start.use>
+   </record>
+   <record deprecated="false"
+           id="CORT002"
+           IMMC.proposal.date="2016-08-31"
+           IMMC.approval.date="2016-08-31"
+           date.creation="2016-07-18"
+           adm.status="current">
+      <authority-code>EUR_GC</authority-code>
+      <label>
+         <lg.version lg="bul" script="Cyrillic">Общ съд</lg.version>
+         <lg.version lg="ces">Tribunál</lg.version>
+         <lg.version lg="dan">Retten</lg.version>
+         <lg.version lg="deu">Gericht</lg.version>
+         <lg.version lg="ell" script="Greek">Γενικό Δικαστήριο</lg.version>
+         <lg.version lg="eng">General Court</lg.version>
+         <lg.version lg="est">Üldkohus</lg.version>
+         <lg.version lg="fin">Unionin yleinen tuomioistuin</lg.version>
+         <lg.version lg="fra">Tribunal</lg.version>
+         <lg.version lg="gle">Cúirt Ghinearálta</lg.version>
+         <lg.version lg="hrv">Opći sud</lg.version>
+         <lg.version lg="hun">Törvényszék</lg.version>
+         <lg.version lg="ita">Tribunale</lg.version>
+         <lg.version lg="lav">Vispārējā tiesa</lg.version>
+         <lg.version lg="lit">Bendrasis Teismas</lg.version>
+         <lg.version lg="mlt">Il-Qorti Ġenerali</lg.version>
+         <lg.version lg="nld">Gerecht</lg.version>
+         <lg.version lg="pol">Sąd</lg.version>
+         <lg.version lg="por">Tribunal Geral</lg.version>
+         <lg.version lg="ron">Tribunalul</lg.version>
+         <lg.version lg="slk">Všeobecný súd</lg.version>
+         <lg.version lg="slv">Splošno sodišče</lg.version>
+         <lg.version lg="spa">Tribunal General</lg.version>
+         <lg.version lg="swe">Tribunalen</lg.version>
+      </label>
+      <sources>
+         <source date="2016-08-09" lg="eng">
+            <description>The General Court is responsible for dealing with cases lodged by natural and legal persons against acts by Union institutions and bodies; cases lodged by EU countries against certain decisions of the Commission or the Council; cases relating to the Community trade mark and starting from September 1st 2016, EU civil service cases (OJ L 200, 26.7.2016, p. 137-139).</description>
+            <provenance>OP</provenance>
+         </source>
+      </sources>
+      <start.use>2009-12-01</start.use>
+   </record>
+   <record deprecated="true"
+           id="CORT003"
+           IMMC.proposal.date="2016-08-31"
+           IMMC.approval.date="2016-08-31"
+           date.creation="2016-07-18"
+           adm.status="deprecated">
+      <authority-code>EUR_CST</authority-code>
+      <end.use>2016-08-31</end.use>
+      <label>
+         <lg.version lg="bul" script="Cyrillic">Съд на публичната служба</lg.version>
+         <lg.version lg="ces">Soud pro veřejnou službu</lg.version>
+         <lg.version lg="dan">Personaleretten</lg.version>
+         <lg.version lg="deu">Gericht für den öffentlichen Dienst</lg.version>
+         <lg.version lg="ell" script="Greek">Δικαστήριο Δημόσιας Διοίκησης</lg.version>
+         <lg.version lg="eng">Civil Service Tribunal</lg.version>
+         <lg.version lg="est">Avaliku Teenistuse Kohus</lg.version>
+         <lg.version lg="fin">Virkamiestuomioistuin</lg.version>
+         <lg.version lg="fra">Tribunal de la fonction publique</lg.version>
+         <lg.version lg="gle">An Binse um Sheirbhís Shibhialta</lg.version>
+         <lg.version lg="hrv">Službenički sud</lg.version>
+         <lg.version lg="hun">Közszolgálati Törvényszék</lg.version>
+         <lg.version lg="ita">Tribunale della funzione pubblica</lg.version>
+         <lg.version lg="lav">Civildienesta tiesa</lg.version>
+         <lg.version lg="lit">Tarnautojų teismas</lg.version>
+         <lg.version lg="mlt">Il-Tribunal għas-Servizz Pubbliku</lg.version>
+         <lg.version lg="nld">Gerecht voor ambtenarenzaken</lg.version>
+         <lg.version lg="pol">Sąd do spraw Służby Publicznej</lg.version>
+         <lg.version lg="por">Tribunal da Função Pública</lg.version>
+         <lg.version lg="ron">Tribunalul Funcţiei Publice</lg.version>
+         <lg.version lg="slk">Súd pre verejnú službu</lg.version>
+         <lg.version lg="slv">Sodišče za uslužbence</lg.version>
+         <lg.version lg="spa">Tribunal de la Función Pública</lg.version>
+         <lg.version lg="swe">Personaldomstolen</lg.version>
+      </label>
+      <sources>
+         <source date="2016-08-09" lg="eng">
+            <description>In 1st September 2016, first instance jurisdiction in European Union civil service cases sitting at the European Union Civil Service Tribunal (‘Civil Service Tribunal’) was transferred to the General Court (OJ L 200, 26.7.2016, p. 137-139). Under Article 270 of the Treaty on the Functioning of the European Union (TFEU), the Civil Service Tribunal had jurisdiction to determine disputes between the EU and its employees. The decisions given by the Tribunal could be subject to an appeal, limited to questions of law, to the General Court. The decisions on appeal by the General Court could in turn be re-examined before the Court of Justice, in exceptional circumstances.</description>
+            <provenance>OP</provenance>
+         </source>
+      </sources>
+      <start.use>2004-11-09</start.use>
+   </record>
+</court-type>
